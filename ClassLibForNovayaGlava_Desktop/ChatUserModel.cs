@@ -10,6 +10,5 @@ namespace ClassLibForNovayaGlava_Desktop
     public class ChatUserModel : ChatModel
     {
         public string CompanionId { get; set; }
-        public string CompanionNickName { get; set; }
     }
 }

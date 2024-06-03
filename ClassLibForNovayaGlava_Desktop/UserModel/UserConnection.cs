@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibForNovayaGlava_Desktop
+namespace ClassLibForNovayaGlava_Desktop.UserModel
 {
     public class UserConnection
     {
